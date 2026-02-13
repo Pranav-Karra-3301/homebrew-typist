@@ -1,6 +1,6 @@
 cask "typist" do
-  version "0.1.0-beta.9"
-  sha256 "92dbfc865b35003fcb82e96c83b087d7068349cbc16227aed3fef4cbd336317d"
+  version "0.1.0-beta.10"
+  sha256 "81276e9c4cf3a09f3290a66240fae75c3184bd5f6294a0670a0952ecad1bca24"
 
   url "https://github.com/Pranav-Karra-3301/typist/releases/download/v#{version}/Typist-#{version}.dmg"
   name "Typist"
