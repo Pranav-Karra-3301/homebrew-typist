@@ -1,8 +1,8 @@
 cask "typist" do
-  version "0.1.0-beta.17"
-  sha256 "29f27b5e38f7ad4d867766cbda2603252382f031370236412f5fd5c8863a9d7b"
+  version "0.1.0-beta.18"
+  sha256 "e1889b48ed9b5e8921ab1eccf53359a25b7285f10d5832c1a1f736f54049b555"
 
-  url "https://github.com/Pranav-Karra-3301/typist/releases/download/v0.1.0-beta.17/Typist-0.1.0-beta.17.dmg"
+  url "https://github.com/Pranav-Karra-3301/typist/releases/download/v0.1.0-beta.18/Typist-0.1.0-beta.18.dmg"
   name "Typist"
   desc "Privacy-first macOS typing metrics menu bar app"
   homepage "https://github.com/Pranav-Karra-3301/typist"
